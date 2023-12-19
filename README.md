@@ -24,7 +24,7 @@ I've been learning web developing sice late 2022. I've always liked computing re
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/wisyxx/commpic" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=wisyxx&repo=commpic&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/wisyxx/bienesraices" align="right"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=wisyxx&repo=bienesraices&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/wisyxx/commpic" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wisyxx&repo=commpic&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/wisyxx/bienesraices" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wisyxx&repo=bienesraices&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Socials
 
