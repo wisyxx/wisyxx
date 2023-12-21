@@ -4,7 +4,7 @@ Hi 👋 My name is Álvaro Hernández
 I'm a self taught web developer 💻
 ----------------------------------
 
-I've been learning web developing sice late 2022. I've always liked computing related things and I started coding in Arduino when i was 10yo. Since that age I've been trying different things untill I found what I now love doing web developing.
+I've been learning web developing sice late 2022. I've always liked computing related things and I started coding in Arduino when i was 10yo. Since that age I've been trying different things untill I found what I now love doing, web developing.
 
 * 🌍  I'm based in Aranda de Duero, Spain
 * ✉️  You can contact me at [alvarohcolino@gmail.com](mailto:alvarohcolino@gmail.com)
